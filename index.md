@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Velkommen til denne hjemmeside
 
-You can use the [editor on GitHub](https://github.com/Lucas081699/Lucas081699.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dette er en hjemmeside for en opgave, som skulle være lavet for 100 år siden, men nu er den da nogenlunde lavet. Ellers handler der her ikke rigtig om noget.For jeg kan ikke helt se hvad jeg skulle skrive her, men det finder man måske ud af på et senere tidspunkt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### UFC - Copenhagen
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+UFC Copenhagen var her i lørdags, hvor 2 danskere var i kamp, Dalby og Madsen.
 
 ```markdown
-Syntax highlighted code block
+Danskerne i kamp
 
-# Header 1
-## Header 2
-### Header 3
+Nicolas "Lokomotivo" Dalby vandt en sikker kamp imod Alex "Cowboy" Oliviera med 3 gange 29/28
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lucas081699/Lucas081699.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mark "The Olympian" Madsen vandt på blot 70 sekunder mod sin italienske modstander. Mark så sten sikker ud, og simpelthen ødelagde sin modstander. 
